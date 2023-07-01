@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">Hi 👋, I'm Liu Rongjing 😃</h3>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jishuyiliu&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="jishuyiliu" />
+</p>
 
 <!--
 **jishuyiliu/jishuyiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
